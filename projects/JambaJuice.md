@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/jamba/jamba-square.png
+image: <img width="641" height="600" alt="image" src="https://github.com/user-attachments/assets/65d04a9e-52f5-4441-8c7c-3b1aed13e83f" />
 title: "Jamba Juice Menu & Order System"
 date: 2026
 published: true
