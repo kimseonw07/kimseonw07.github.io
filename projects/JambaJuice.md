@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/Jamba-Juice-3317b5815056a36_331852ed-5056-a36a-0824955f2c2f23c8.jpg
+image: img/cotton/JambaJuice.png
 title: "Jamba Juice Menu & Order System"
 date: 2026
 published: true
