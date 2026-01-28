@@ -36,4 +36,4 @@ This project emphasizes:
 - Modeling realistic constraints in software systems
 
 Source:  
-<a href="https://www.typescriptlang.org/play/"><i class="large github icon"></i>TypeScript Playground (link to submitted code)</a>
+<a href="https://www.typescriptlang.org/play/"><i class="large github icon"></i>TypeScript Playground</a>
