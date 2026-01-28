@@ -11,7 +11,7 @@ labels:
   - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="img/cotton/Typescript.png" alt="Abstract image representing TypeScript and coding practice" />
+<img width="200px" class="rounded float-start pe-4" src=".../img/cotton/Typescript.png" alt="Abstract image representing TypeScript and coding practice" />
 
 ## Encountering TypeScript for the First Time
 My first exposure to TypeScript came through this course, alongside a deeper dive into modern JavaScript. At first glance, TypeScript felt like JavaScript with additional constraints, but as I progressed through the module, I began to understand why those constraints exist. TypeScript encourages developers to think more carefully about data types, function inputs and outputs, and overall program structure. For someone still developing confidence in software engineering, this emphasis on clarity was both challenging and reassuring.
