@@ -4,7 +4,7 @@ type: essay
 title: "Asking Smart Questions: How Clarity Earns Better Answers"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-28
-published: true
+published: false
 labels:
   - Software Engineering
   - Communication
