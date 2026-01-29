@@ -87,7 +87,49 @@
     }
   ],
 
-  "volunteer": [],
+  "activities": [
+  {
+    "organization": "Yonsei Management Consulting Group (YMCG)",
+    "position": "Member / Chief Relationship Officer (CRO)",
+    "website": "",
+    "startDate": "2024-09-01",
+    "endDate": "2025-06-30",
+    "summary": "Student-led management consulting organization at Yonsei University.",
+    "highlights": [
+      "Participated in 10+ internal projects and 2 external corporate projects across diverse industries",
+      "Led a case study on the global TV industry, analyzing historical success factors and future strategic shifts",
+      "Conducted market research for a commercial due diligence project in the liquefied CO₂ market",
+      "Served as CRO, planning and coordinating major internal events to strengthen member engagement"
+    ]
+  },
+  {
+    "organization": "EIC (Economic and Business Club by FKI)",
+    "position": "Member / CEO of Business Model Competition",
+    "website": "",
+    "startDate": "2022-09-01",
+    "endDate": "2023-12-31",
+    "summary": "Economics and business-focused student organization engaging in debates, competitions, and case analysis.",
+    "highlights": [
+      "Led a 10-member team in a business model competition, developing a mentor-matching self-growth application",
+      "Won first place by proposing a scalable strategy addressing unmet user needs",
+      "Represented the organization in inter-club economic debates, earning top awards for persuasive argumentation",
+      "Participated in multiple programs including economic debates, mock investment, and corporate analysis"
+    ]
+  },
+  {
+    "organization": "BizYON (Yonsei University School of Business Ambassador Program)",
+    "position": "Design Team Member / President",
+    "website": "",
+    "startDate": "2022-09-01",
+    "endDate": "2023-06-30",
+    "summary": "Student ambassador organization representing Yonsei University School of Business.",
+    "highlights": [
+      "Led the organization as President, coordinating outreach programs with administrators and high schools",
+      "Relaunched a major outreach event paused during COVID-19, attracting over 1,000 applicants",
+      "Produced promotional video content and proposed integrated social media strategies to enhance engagement"
+    ]
+  }
+],
 
 "awards": [
   {
