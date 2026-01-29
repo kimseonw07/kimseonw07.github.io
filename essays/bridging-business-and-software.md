@@ -11,7 +11,7 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essays/bridge-business-software.jpg" alt="Abstract image representing business and software" />
+<img width="200px" class="rounded float-start pe-4" src="../img/cotton/business-network-isometric-png.png" alt="Abstract image representing business and software" />
 
 ## From Business Questions to Technical Curiosity
 I began my academic journey in Business Administration, where I learned how to analyze markets, evaluate strategies, and think about value creation from a high-level perspective. Over time, however, I became increasingly curious about what happens beneath those strategies—specifically, how software systems are designed and built to turn ideas into real products. This curiosity led me to pursue Computer Science alongside business, and eventually sparked my interest in software engineering. For me, software engineering represents the point where abstract business goals meet concrete technical execution.
