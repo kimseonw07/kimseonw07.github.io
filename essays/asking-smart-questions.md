@@ -22,7 +22,8 @@ In this essay, I analyze two Stack Overflow questions—one that follows “smar
 ---
 
 ## A “Smart Way” Example: Minimal Reproducible Evidence, Fast Resolution
-**Stack Overflow link:** https://stackoverflow.com/questions/72030290/cant-use-starred-expression-here
+> Note on sources:  
+> The example discussed in this section is an AI-constructed example inspired by common high-quality Stack Overflow questions. It is not a verbatim analysis of a single real post, but a representative case designed to illustrate the principles described by Eric Raymond.
 
 ### What the question is asking (textual summary)
 In this question, a Python learner wants to “return two things” from a function without explicitly indexing into a list. The asker provides a short function:
@@ -53,7 +54,8 @@ Because the question is tightly scoped and reproducible, the discussion stays fo
 ---
 
 ## A “Not Smart Way” Example: Vague Goals, Stress Signals, and Low-Quality Outcome
-**Stack Overflow link:** https://stackoverflow.com/questions/8781083/email-contact-form
+> Note on sources:  
+> This example is a hypothetical Stack Overflow-style question generated with the assistance of ChatGPT to demonstrate how violations of the "smart questions" principles can lead to inefficient or unhelpful responses.
 
 ### What the question is asking (textual summary)
 This question is about a PHP email/contact form. The asker says they have “tried and tried” to submit an uploaded file, but it is “either too hard, or will not work.” They ask multiple things at once, including:
@@ -114,4 +116,4 @@ Raymond’s guidelines are sometimes harsh in tone, but the practical takeaway i
 ---
 
 ## AI Use Disclosure
-I used ChatGPT to help organize my essay structure and to improve clarity and flow. The selection of the examples, interpretation, and final writing decisions reflect my understanding and judgment.
+I used ChatGPT to help generate representative examples of "smart" and "not smart" Stack Overflow-style questions, as well as to organize and refine the structure of this essay. All interpretations and conclusions reflect my own understanding.
