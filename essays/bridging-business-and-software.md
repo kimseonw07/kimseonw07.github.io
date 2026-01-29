@@ -4,7 +4,7 @@ type: essay
 title: "Bridging Business Thinking and Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-21
-published: false
+published: true
 labels:
   - Software Engineering
   - Business
