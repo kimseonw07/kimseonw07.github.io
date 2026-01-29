@@ -3,111 +3,119 @@
     "name": "Seonwoo Kim",
     "label": "Student",
     "picture": "https://github.com/kimseonw07.png",
-    "email": "kimseonw@hawaii.edu",
-    "phone": "808-330-5595",
+    "email": "swkimm@yonsei.ac.kr",
+    "phone": "010-2706-1943",
     "website": "https://kimseonw07.github.io",
-    "summary": "I am studying for a B.S. in Business Administration and Computer Science at the Yonsei University and the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying Business Administration and Computer Science at Yonsei University, with interests in strategy, data analysis, and software-related problem solving.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/kimseonw07" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/%EC%84%A0%EC%9A%B0-%EA%B9%80-78777937a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" },
-      { "network": "instagram", "username": "molly", "url": "https://www.instagram.com/good__help?igsh=MTU0NTZmeXE0cHppNw%3D%3D&utm_source=qr" }
+      {
+        "network": "github",
+        "username": "kimseonw07",
+        "url": "https://github.com/kimseonw07"
+      },
+      {
+        "network": "linkedin",
+        "username": "Seonwoo Kim",
+        "url": "https://www.linkedin.com/in/%EC%84%A0%EC%9A%B0-%EA%B9%80-78777937a"
+      }
     ]
   },
+
   "interests": [
     { "name": "Business" },
     { "name": "Computer Science" },
     { "name": "Software Engineering" },
     { "name": "AI" }
   ],
+
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "JavaScript", "Python", "SQL", "R" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "MS Office", "Figma", "Adobe Premiere Pro" ]
     }
   ],
+
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "institution": "Yonsei University",
+      "area": "Business Administration and Computer Science (Double Major)",
+      "studyType": "B.A. Candidate",
+      "startDate": "2021-03-01",
+      "endDate": "2027-08-31",
+      "courses": []
     }
   ],
+
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "The Boston Consulting Group (BCG)",
+      "position": "Research Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2025-09-01",
+      "endDate": "2025-11-30",
+      "summary": "Supported consulting teams through industry research and data-related analysis.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Conducted research on the insurance industry, including market structure and competitive landscape analysis",
+        "Supported M&A-related research by reviewing industry trends and target company information",
+        "Performed data cleaning and preprocessing tasks to support internal analyses",
+        "Synthesized research findings to support consultants’ internal discussions"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Urban Adventurer Co., Ltd.",
+      "position": "Research Analyst",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2025-07-01",
+      "endDate": "2025-08-31",
+      "summary": "Conducted market and regulatory research to support new business strategy projects.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Analyzed firestop market trends and contributed insights to client presentation materials",
+        "Researched U.S. fire protection regulations and certification requirements",
+        "Conducted industry research on battery recycling and marine navigation systems"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+
+  "volunteer": [],
+
+"awards": [
+  {
+    "title": "Honor Scholarship",
+    "date": "2022",
+    "awarder": "Yonsei University",
+    "summary": "Merit-based scholarship awarded for academic excellence during the 2022 academic year."
+  },
+  {
+    "title": "1st Place, Business Model Competition",
+    "date": "2023",
+    "awarder": "EIC (Economic and Business Club by FKI)",
+    "summary": "Awarded for developing a scalable business model addressing unmet user needs."
+  },
+  {
+    "title": "1st Place, Debate Competition",
+    "date": "2023",
+    "awarder": "YLC & EIC",
+    "summary": "Won first place in an inter-club debate competition through structured argumentation and rebuttals."
+  },
+  {
+    "title": "Business Class MVP",
+    "date": "2022",
+    "awarder": "Yonsei University School of Business",
+    "summary": "Recognized as the top-performing student in a business course."
+  }
+],
+
   "references": [
     {
       "name": "Available upon request"
