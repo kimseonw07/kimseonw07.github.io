@@ -4,7 +4,7 @@ type: project
 image: img/cotton/JambaJuice.png
 title: "Jamba Juice Menu & Order System"
 date: 2026
-published: true
+published: false
 labels:
   - TypeScript
   - Object-Oriented Programming
