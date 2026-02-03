@@ -12,7 +12,7 @@ labels:
 summary: "A TypeScript-based system that models Jamba Juice menus, customer orders, and store inventory."
 ---
 
-<img class="img-fluid" src="../Users/kimsunwoo/Documents/GitHub/kimseonw07.github.io/img/cotton/images.jpeg">
+<img class="img-fluid" src="../Users/kimsunwoo/Documents/GitHub/kimseonw07.github.io/img/cotton/Jamba-Juice-3317b5815056a36_331852ed-5056-a36a-0824955f2c2f23c8.jpg">
 
 This project is a TypeScript implementation of a simplified Jamba Juice store system, developed as part of a series of WODs (Workout of the Day) in ICS 314. The project incrementally models real-world entities using object-oriented design principles.
 
