@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Why Coding Standards Felt Painful but Necessary in Learning TypeScript"
-date: 2026-01-21
+date: 2026-02-11
 published: true
 labels:
   - Coding Standards
