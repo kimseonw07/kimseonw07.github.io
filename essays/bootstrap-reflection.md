@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="220px" class="rounded float-start pe-4" src="img/cotton/Bootstrap_(front-end_framework)-Logo.wine.png" alt="Bootstrap logo" />
+<img width="220px" class="rounded float-start pe-4" src="../img/cotton/Bootstrap_(front-end_framework)-Logo.wine.png" alt="Bootstrap logo" />
 
 ## Feeling Lost at the Beginning
 When I first started using Bootstrap, I was honestly unsure why it was necessary. Writing HTML with a long list of unfamiliar class names felt more confusing than helpful. Instead of clearly seeing how my page was structured, I found myself focused on remembering syntax like `container`, `row`, and `col`. At that stage, Bootstrap felt less like a tool and more like an extra layer of complexity.
