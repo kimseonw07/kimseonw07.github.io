@@ -11,7 +11,7 @@ labels:
   - React
 ---
 
-<img width="100%" class="rounded pb-4" src="../img/cotton/1_X_Jcba8tJQDVUpe-7aUIlw.png" alt="Design patterns diagram showing creational, structural, and behavioral categories" />
+<img width="400px" class="rounded float-start pe-4" src="../img/cotton/1_X_Jcba8tJQDVUpe-7aUIlw.png" alt="Design patterns diagram showing creational, structural, and behavioral categories" />
 
 ## Every Building Has a Blueprint
 
