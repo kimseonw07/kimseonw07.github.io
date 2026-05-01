@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="220px" class="rounded float-start pe-4" src="../img/cotton/artificial-intelligence-icon-elem..." alt="AI icon" />
+<img width="220px" class="rounded float-start pe-4" src="../img/cotton/AI.png" alt="AI icon" />
 
 ## I. Introduction
 Artificial Intelligence has become an increasingly prominent force in education, reshaping how students learn, problem-solve, and engage with complex material. In the field of software engineering, where the pace of change is rapid and the breadth of knowledge required is vast, AI tools have emerged as practical companions throughout the development process — from understanding new concepts to writing and debugging code.
