@@ -4,7 +4,7 @@ type: essay
 title: "Learning TypeScript Through Practice"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-21
-published: true
+published: false
 labels:
   - Software Engineering
   - TypeScript
