@@ -121,7 +121,9 @@ layout: home
           <div class="row mb-3">
             <div class="col-9">
               <p class="mb-0"><b>{{ entry.position }}, {{ entry.company }}</b></p>
+              {% if entry.website and entry.website != "" %}
               <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
+              {% endif %}
               <p class="mb-0">{{ entry.summary }}</p>
               {% if entry.highlights %}
                 <ul>
@@ -164,7 +166,9 @@ layout: home
           <div class="row mb-3">
             <div class="col-9">
               <p class="mb-0"><b>{{ entry.position }}{% if entry.organization %}, {{ entry.organization }}{% endif %}</b></p>
+              {% if entry.website and entry.website != "" %}
               <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
+              {% endif %}
               <p class="mb-0">{{ entry.summary }}</p>
               {% if entry.highlights %}
                 <ul>
