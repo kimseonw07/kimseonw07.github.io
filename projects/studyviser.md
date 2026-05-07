@@ -55,4 +55,4 @@ This project was my first experience building a full-stack application collabora
 
 **Effort estimation.** Estimating task durations before starting and logging actual time afterward helped me realize how inaccurate my initial intuitions were, particularly for tasks that combined design and implementation. I now plan to decompose large tasks more aggressively before estimating.
 
-Source: <a href="https://study-viser.github.io"><i class="large github icon"></i>studyviser-uhm (GitHub Organization)</a>
+Source: <a href="https://study-viser.github.io/"><i class="large github icon"></i>studyviser</a>
